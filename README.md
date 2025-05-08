@@ -5,6 +5,8 @@ Objectives:
 - Analyze monthly and daily sales patterns to recognize demand fluctuations.
 - Examine profit margins to improve overall revenue.
 - Utilize interactive dashboards for user-friendly visualization and decision-making.
+
+  
 Key Insights:
 - Sales peaked at 8 AM, indicating strong morning demand.
 - Barista Espresso remains the best-selling product, while Green Beans struggle with sales.
