@@ -1,5 +1,7 @@
 # Coffee-Sale-Shop-Analysis
 This project provides a comprehensive analysis of coffee shop sales in New York City from January to June 2023, focusing on key financial metrics, product performance, and consumer behavior. By leveraging transaction data, the analysis uncovers sales trends, peak purchase hours, and category profitability to optimize business strategies.
+
+
 Objectives:
 - Identify top-selling and least-selling products for better inventory management.
 - Analyze monthly and daily sales patterns to recognize demand fluctuations.
