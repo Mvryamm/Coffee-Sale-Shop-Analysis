@@ -10,5 +10,7 @@ Key Insights:
 - Barista Espresso remains the best-selling product, while Green Beans struggle with sales.
 - Margins increased from 11% in January to 24% in June, highlighting profitability growth.
 - Hell’s Kitchen outperformed other locations in overall sales volume.
+
+  
 This project serves as a data-driven decision-making tool, helping coffee shop owners refine their marketing strategies, enhance customer engagement, and optimize product offerings for higher sales and profitability.
 
